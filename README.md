@@ -10,11 +10,11 @@ Each std version is dictated with different long value and can be looked up on t
 
 A few common ones:
 
-202101L - C++23
-202002L - C++20
-201703L - C++17
-201402L - c++14
-201103L - C++11
-199711L - C++98
+(202101L - C++23)
+(202002L - C++20)
+(201703L - C++17)
+(201402L - c++14)
+(201103L - C++11)
+(199711L - C++98)
 
 The older ones can be searched on the Internet so I did not bother putting them here. Search "__cplusplus" macro on Internet for more.
